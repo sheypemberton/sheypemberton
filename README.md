@@ -1,7 +1,7 @@
 - 👋 sheypemberton
 - 🌱 UMN Computer Science & English '22
 - ✨ Software Engineer
-- 💞️ I love plants, fungi, and reading
+- 💞️ I love plants, fungi, and reading & writing
 - 📫 sheypemberton@gmail.com
 
 <!---
